@@ -1,7 +1,7 @@
 # mobile
 mobile
 
-##Structure
+## Structure
 .
 ├── ...
 ├── docs                    # Documentation files (alternatively `doc`)
