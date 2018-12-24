@@ -2,12 +2,20 @@
 mobile
 
 # Structure
-Project
+Project    
  |
+ 
  +-- file 1
  |    
+ 
  +-- dir 2
  |  |  
+ 
+ 
+ 
+ 
+ 
+ 
  |  +-- file 2.1
  |    
  +-- dir 3
