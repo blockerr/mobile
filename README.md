@@ -2,7 +2,7 @@
 mobile
 
 # Structure
-  |-- .bowerrc
+  |-- .bowerrc                               #sadadsadadsadasdasdadasd
     |-- .jshintrc
     |-- .jshintrc2
     |-- Gruntfile.js
