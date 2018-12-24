@@ -2,27 +2,20 @@
 mobile
 
 # Structure
-Project    
- |
- 
- +-- file 1
- |    
- 
- +-- dir 2
- |  |  
- 
- 
- 
- 
- 
- 
- |  +-- file 2.1
- |    
- +-- dir 3
- |  |  
- |  +-- file 3.1
- |  +-- file 3.2
- |    
- +-- dir 4
- |  |  
- +  |-- dir 4.1
+  |-- .bowerrc
+    |-- .jshintrc
+    |-- .jshintrc2
+    |-- Gruntfile.js
+    |-- README.md
+    |-- bower.json
+    |-- karma.conf.js
+    |-- package.json
+    |-- app
+        |-- app.js
+        |-- db.js
+        |-- directoryList.md
+        |-- index.html
+        |-- mddir.js
+        |-- routing.js
+        |-- server.js
+        |-- _api
