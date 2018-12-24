@@ -2,20 +2,25 @@
 mobile
 
 # Structure
-  |-- .bowerrc                               #sadadsadadsadasdasdadasd
-    |-- .jshintrc
-    |-- .jshintrc2
-    |-- Gruntfile.js
-    |-- README.md
-    |-- bower.json
-    |-- karma.conf.js
-    |-- package.json
-    |-- app
-        |-- app.js
-        |-- db.js
-        |-- directoryList.md
-        |-- index.html
-        |-- mddir.js
-        |-- routing.js
-        |-- server.js
-        |-- _api
+```
+app
+├── config
+│   └── routes.js
+├── screens
+│   └── App
+│       ├── screens
+│       │   ├── Admin
+│       │   │   ├── screens
+│       │   │   │   ├── Reports
+│       │   │   │   │   └── index.js
+│       │   │   │   └── Users
+│       │   │   │       └── index.js
+│       │   │   └── index.js
+│       │   └── Course
+│       │       ├── screens
+│       │       │   └── Assignments
+│       │       │       └── index.js
+│       │       └── index.js
+│       └── index.js
+└── index.js
+```
